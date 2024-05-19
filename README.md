@@ -3,7 +3,7 @@
 Injection into Language Model) is an approach for injecting knowledge into
 pre-trained language models. This repository provides 
 the necessary code for KILM.
-KILM propose a new (second-step) pre-trianing method to inject information
+KILM propose a new (second-step) pre-training method to inject information
 about entities (such as entity descriptions) into pre-trained language models. 
 
 
